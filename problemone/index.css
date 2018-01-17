@@ -1,0 +1,11 @@
+.button {
+	display: inline-block;
+}
+
+.arguebox {
+	width: 250px;
+	height: 65px;
+	background: limegreen;
+	display: inline-block;
+	border-radius: 7px;
+}
